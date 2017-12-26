@@ -1,0 +1,37 @@
+6/5/2015 01:04:29 AM	[Trace]	#### Server boot ####
+6/5/2015 01:04:29 AM	[Log]	Server mounted, listening on port 4296
+6/5/2015 01:04:29 AM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\LockstepServer\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+6/5/2015 01:04:29 AM	[Trace]	Found a total of 1 plugins.
+6/5/2015 01:04:29 AM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+6/5/2015 01:05:10 AM	[Log]	Connected: 127.0.0.1:54924
+6/5/2015 01:05:19 AM	[Log]	Data Received
+6/5/2015 01:05:19 AM	[Log]	Data Roomed
+6/5/2015 01:05:22 AM	[Log]	Data Received
+6/5/2015 01:05:22 AM	[Log]	Data Roomed
+6/5/2015 01:05:24 AM	[Log]	Data Received
+6/5/2015 01:05:24 AM	[Log]	Data Roomed
+6/5/2015 01:05:24 AM	[Log]	Data Received
+6/5/2015 01:05:24 AM	[Log]	Data Roomed
+6/5/2015 01:05:24 AM	[Log]	Data Received
+6/5/2015 01:05:24 AM	[Log]	Data Roomed
+6/5/2015 01:05:24 AM	[Log]	Data Received
+6/5/2015 01:05:24 AM	[Log]	Data Roomed
+6/5/2015 01:05:25 AM	[Log]	Data Received
+6/5/2015 01:05:25 AM	[Log]	Data Roomed
+6/5/2015 01:05:29 AM	[Log]	Data Received
+6/5/2015 01:05:29 AM	[Log]	Data Roomed
+6/5/2015 01:05:30 AM	[Log]	Data Received
+6/5/2015 01:05:30 AM	[Log]	Data Roomed
+6/5/2015 01:05:30 AM	[Log]	Data Received
+6/5/2015 01:05:30 AM	[Log]	Data Roomed
+6/5/2015 01:05:32 AM	[Log]	Data Received
+6/5/2015 01:05:32 AM	[Log]	Data Roomed
+6/5/2015 01:05:33 AM	[Log]	Data Received
+6/5/2015 01:05:33 AM	[Log]	Data Roomed
+6/5/2015 01:05:33 AM	[Log]	Data Received
+6/5/2015 01:05:33 AM	[Log]	Data Roomed
+6/5/2015 01:05:39 AM	[Trace]	A connection was forcibly closed, error code: 10054
+6/5/2015 01:05:39 AM	[Log]	Disconnected: 127.0.0.1:54924
+6/5/2015 01:05:59 AM	[Log]	Connected: 127.0.0.1:54927
+6/5/2015 01:06:24 AM	[Trace]	A connection was forcibly closed, error code: 10054
+6/5/2015 01:06:24 AM	[Log]	Disconnected: 127.0.0.1:54927

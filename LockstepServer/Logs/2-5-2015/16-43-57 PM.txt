@@ -1,0 +1,5 @@
+2/5/2015 16:43:57 PM	[Trace]	#### Server boot ####
+2/5/2015 16:43:57 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 16:43:57 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\Assets\DPhysics\Multiplayer DarkRift Demo\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 16:43:57 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 16:43:57 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0

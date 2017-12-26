@@ -1,0 +1,57 @@
+2/5/2015 22:19:12 PM	[Trace]	#### Server boot ####
+2/5/2015 22:19:12 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 22:19:12 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 22:19:12 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 22:19:12 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 22:19:16 PM	[Log]	Connected: 127.0.0.1:61391
+2/5/2015 22:21:18 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+2/5/2015 22:21:18 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+2/5/2015 22:21:18 PM	[Trace]	A connection was forcibly closed, error code: 10053
+2/5/2015 22:21:37 PM	[Log]	Connected: 127.0.0.1:61404
+2/5/2015 22:21:47 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:21:56 PM	[Log]	Connected: 127.0.0.1:61407
+2/5/2015 22:22:16 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:24:04 PM	[Log]	Connected: 127.0.0.1:61413
+2/5/2015 22:24:12 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:24:46 PM	[Log]	Connected: 127.0.0.1:61416
+2/5/2015 22:24:54 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:27:04 PM	[Log]	Connected: 127.0.0.1:61433
+2/5/2015 22:27:10 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:31:20 PM	[Log]	Connected: 127.0.0.1:61455
+2/5/2015 22:31:26 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:32:39 PM	[Log]	Connected: 127.0.0.1:61461
+2/5/2015 22:32:48 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:33:17 PM	[Log]	Connected: 127.0.0.1:61465
+2/5/2015 22:33:21 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:35:15 PM	[Log]	Connected: 127.0.0.1:61476
+2/5/2015 22:35:18 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:36:50 PM	[Log]	Connected: 127.0.0.1:61483
+2/5/2015 22:36:57 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:37:35 PM	[Log]	Connected: 127.0.0.1:61489
+2/5/2015 22:37:38 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:37:56 PM	[Log]	Connected: 127.0.0.1:61491
+2/5/2015 22:37:58 PM	[Trace]	A connection was forcibly closed, error code: 10053
+2/5/2015 22:37:58 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+2/5/2015 22:37:58 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.SendBytes(Byte[] bytes)
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+2/5/2015 22:39:11 PM	[Log]	Connected: 127.0.0.1:61498
+2/5/2015 22:39:28 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:39:55 PM	[Log]	Connected: 127.0.0.1:61501
+2/5/2015 22:40:06 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:41:27 PM	[Log]	Connected: 127.0.0.1:61506
+2/5/2015 22:41:32 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:41:49 PM	[Log]	Connected: 127.0.0.1:61509
+2/5/2015 22:41:56 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:44:16 PM	[Log]	Connected: 127.0.0.1:61521
+2/5/2015 22:44:19 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:44:29 PM	[Log]	Connected: 127.0.0.1:61523
+2/5/2015 22:44:30 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 22:44:38 PM	[Error]	Connection refused due to your limit set in settings.cnf!

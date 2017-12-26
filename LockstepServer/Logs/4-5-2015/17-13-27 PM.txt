@@ -1,0 +1,93 @@
+4/5/2015 17:13:27 PM	[Trace]	#### Server boot ####
+4/5/2015 17:13:27 PM	[Log]	Server mounted, listening on port 4296
+4/5/2015 17:13:27 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+4/5/2015 17:13:27 PM	[Trace]	Found a total of 1 plugins.
+4/5/2015 17:13:27 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+4/5/2015 17:13:30 PM	[Log]	Connected: 127.0.0.1:53575
+4/5/2015 17:13:48 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:13:48 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:13:48 PM	[Trace]	A connection was forcibly closed, error code: 10053
+4/5/2015 17:14:43 PM	[Log]	Connected: 127.0.0.1:53583
+4/5/2015 17:14:54 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:14:54 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:14:54 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:14:57 PM	[Log]	Connected: 127.0.0.1:53585
+4/5/2015 17:15:11 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:20:04 PM	[Log]	Connected: 127.0.0.1:53605
+4/5/2015 17:20:12 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:20:17 PM	[Log]	Connected: 127.0.0.1:53608
+4/5/2015 17:20:20 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:20:25 PM	[Log]	Connected: 127.0.0.1:53610
+4/5/2015 17:22:27 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:22:27 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:22:27 PM	[Trace]	A connection was forcibly closed, error code: 10053
+4/5/2015 17:23:35 PM	[Log]	Connected: 127.0.0.1:53624
+4/5/2015 17:25:31 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:25:43 PM	[Log]	Connected: 127.0.0.1:53633
+4/5/2015 17:27:16 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:27:16 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:27:16 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:27:18 PM	[Log]	Connected: 127.0.0.1:53639
+4/5/2015 17:27:20 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:27:59 PM	[Log]	Connected: 127.0.0.1:53642
+4/5/2015 17:28:36 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:28:36 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:28:36 PM	[Trace]	A connection was forcibly closed, error code: 10053
+4/5/2015 17:29:37 PM	[Log]	Connected: 127.0.0.1:53659
+4/5/2015 17:29:42 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:29:59 PM	[Log]	Connected: 127.0.0.1:53663
+4/5/2015 17:30:21 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:30:31 PM	[Log]	Connected: 127.0.0.1:53666
+4/5/2015 17:30:51 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:30:51 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:30:51 PM	[Trace]	A connection was forcibly closed, error code: 10053
+4/5/2015 17:30:54 PM	[Log]	Connected: 127.0.0.1:53669
+4/5/2015 17:30:56 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:30:58 PM	[Log]	Connected: 127.0.0.1:53671
+4/5/2015 17:31:19 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:35:36 PM	[Log]	Connected: 127.0.0.1:53700
+4/5/2015 17:35:38 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:35:51 PM	[Log]	Connected: 127.0.0.1:53703
+4/5/2015 17:36:02 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:36:02 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:36:02 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:36:05 PM	[Log]	Connected: 127.0.0.1:53706
+4/5/2015 17:37:09 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 17:47:49 PM	[Log]	Connected: 127.0.0.1:53754
+4/5/2015 17:47:52 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+4/5/2015 17:47:52 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+4/5/2015 17:47:52 PM	[Trace]	A connection was forcibly closed, error code: 10053
+4/5/2015 17:48:27 PM	[Error]	Connection refused due to your limit set in settings.cnf!
+4/5/2015 17:48:33 PM	[Error]	Connection refused due to your limit set in settings.cnf!

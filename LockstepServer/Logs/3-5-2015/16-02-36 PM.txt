@@ -1,0 +1,5 @@
+3/5/2015 16:02:36 PM	[Trace]	#### Server boot ####
+3/5/2015 16:02:36 PM	[Log]	Server mounted, listening on port 4296
+3/5/2015 16:02:36 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+3/5/2015 16:02:36 PM	[Trace]	Found a total of 1 plugins.
+3/5/2015 16:02:36 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0

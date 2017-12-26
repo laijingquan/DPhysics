@@ -1,0 +1,133 @@
+4/5/2015 22:52:06 PM	[Trace]	#### Server boot ####
+4/5/2015 22:52:06 PM	[Log]	Server mounted, listening on port 4296
+4/5/2015 22:52:07 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\LockstepServer\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+4/5/2015 22:52:07 PM	[Trace]	Found a total of 1 plugins.
+4/5/2015 22:52:07 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+4/5/2015 23:08:47 PM	[Log]	Connected: 127.0.0.1:55637
+4/5/2015 23:08:57 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:08:57 PM	[Log]	Disconnected: 127.0.0.1:55637
+4/5/2015 23:09:29 PM	[Log]	Connected: 127.0.0.1:55641
+4/5/2015 23:09:44 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:09:44 PM	[Log]	Disconnected: 127.0.0.1:55641
+4/5/2015 23:09:55 PM	[Log]	Connected: 127.0.0.1:55644
+4/5/2015 23:10:13 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:10:13 PM	[Log]	Disconnected: 127.0.0.1:55644
+4/5/2015 23:10:21 PM	[Log]	Connected: 127.0.0.1:55647
+4/5/2015 23:10:23 PM	[Log]	Data Received
+4/5/2015 23:10:23 PM	[Trace]	A connection was forcibly closed, error code: 10053
+4/5/2015 23:10:23 PM	[Log]	Disconnected: 127.0.0.1:55647
+4/5/2015 23:10:46 PM	[Log]	Connected: 127.0.0.1:55652
+4/5/2015 23:10:48 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:10:48 PM	[Log]	Disconnected: 127.0.0.1:55652
+4/5/2015 23:11:36 PM	[Log]	Connected: 127.0.0.1:55657
+4/5/2015 23:11:37 PM	[Log]	Data Received
+4/5/2015 23:11:37 PM	[Log]	Data Roomed
+4/5/2015 23:11:38 PM	[Log]	Data Received
+4/5/2015 23:11:38 PM	[Log]	Data Roomed
+4/5/2015 23:11:38 PM	[Log]	Data Received
+4/5/2015 23:11:38 PM	[Log]	Data Roomed
+4/5/2015 23:11:39 PM	[Log]	Data Received
+4/5/2015 23:11:39 PM	[Log]	Data Roomed
+4/5/2015 23:11:41 PM	[Log]	Data Received
+4/5/2015 23:11:41 PM	[Log]	Data Roomed
+4/5/2015 23:15:11 PM	[Log]	Data Received
+4/5/2015 23:15:11 PM	[Log]	Disconnected: 127.0.0.1:55657
+4/5/2015 23:21:30 PM	[Log]	Connected: 127.0.0.1:55732
+4/5/2015 23:21:32 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:21:32 PM	[Log]	Disconnected: 127.0.0.1:55732
+4/5/2015 23:24:25 PM	[Log]	Connected: 127.0.0.1:55770
+4/5/2015 23:24:27 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:24:27 PM	[Log]	Disconnected: 127.0.0.1:55770
+4/5/2015 23:42:57 PM	[Log]	Connected: 127.0.0.1:55966
+4/5/2015 23:42:59 PM	[Log]	Data Received
+4/5/2015 23:42:59 PM	[Log]	Data Roomed
+4/5/2015 23:43:00 PM	[Log]	Data Received
+4/5/2015 23:43:00 PM	[Log]	Data Roomed
+4/5/2015 23:43:01 PM	[Log]	Data Received
+4/5/2015 23:43:01 PM	[Log]	Data Roomed
+4/5/2015 23:43:01 PM	[Log]	Data Received
+4/5/2015 23:43:01 PM	[Log]	Data Roomed
+4/5/2015 23:43:02 PM	[Log]	Data Received
+4/5/2015 23:43:02 PM	[Log]	Data Roomed
+4/5/2015 23:43:02 PM	[Log]	Data Received
+4/5/2015 23:43:02 PM	[Log]	Data Roomed
+4/5/2015 23:43:02 PM	[Log]	Data Received
+4/5/2015 23:43:02 PM	[Log]	Data Roomed
+4/5/2015 23:43:02 PM	[Log]	Data Received
+4/5/2015 23:43:02 PM	[Log]	Data Roomed
+4/5/2015 23:43:24 PM	[Log]	Data Received
+4/5/2015 23:43:24 PM	[Log]	Data Roomed
+4/5/2015 23:43:35 PM	[Log]	Data Received
+4/5/2015 23:43:35 PM	[Log]	Data Roomed
+4/5/2015 23:43:35 PM	[Log]	Data Received
+4/5/2015 23:43:35 PM	[Log]	Data Roomed
+4/5/2015 23:43:35 PM	[Log]	Data Received
+4/5/2015 23:43:35 PM	[Log]	Data Roomed
+4/5/2015 23:43:35 PM	[Log]	Data Received
+4/5/2015 23:43:35 PM	[Log]	Data Roomed
+4/5/2015 23:43:39 PM	[Log]	Data Received
+4/5/2015 23:43:39 PM	[Log]	Data Roomed
+4/5/2015 23:43:39 PM	[Log]	Data Received
+4/5/2015 23:43:39 PM	[Log]	Data Roomed
+4/5/2015 23:43:40 PM	[Log]	Data Received
+4/5/2015 23:43:40 PM	[Log]	Data Roomed
+4/5/2015 23:43:40 PM	[Log]	Data Received
+4/5/2015 23:43:40 PM	[Log]	Data Roomed
+4/5/2015 23:43:40 PM	[Log]	Data Received
+4/5/2015 23:43:40 PM	[Log]	Data Roomed
+4/5/2015 23:43:47 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:43:47 PM	[Log]	Disconnected: 127.0.0.1:55966
+4/5/2015 23:43:58 PM	[Log]	Connected: 127.0.0.1:55971
+4/5/2015 23:44:01 PM	[Log]	Data Received
+4/5/2015 23:44:01 PM	[Log]	Data Roomed
+4/5/2015 23:44:01 PM	[Log]	Data Received
+4/5/2015 23:44:01 PM	[Log]	Data Roomed
+4/5/2015 23:44:01 PM	[Log]	Data Received
+4/5/2015 23:44:01 PM	[Log]	Data Roomed
+4/5/2015 23:44:01 PM	[Log]	Data Received
+4/5/2015 23:44:01 PM	[Log]	Data Roomed
+4/5/2015 23:44:02 PM	[Log]	Data Received
+4/5/2015 23:44:02 PM	[Log]	Data Roomed
+4/5/2015 23:44:02 PM	[Log]	Data Received
+4/5/2015 23:44:02 PM	[Log]	Data Roomed
+4/5/2015 23:44:02 PM	[Log]	Data Received
+4/5/2015 23:44:02 PM	[Log]	Data Roomed
+4/5/2015 23:44:02 PM	[Log]	Data Received
+4/5/2015 23:44:02 PM	[Log]	Data Roomed
+4/5/2015 23:44:06 PM	[Log]	Data Received
+4/5/2015 23:44:06 PM	[Log]	Data Roomed
+4/5/2015 23:44:06 PM	[Log]	Data Received
+4/5/2015 23:44:06 PM	[Log]	Data Roomed
+4/5/2015 23:44:07 PM	[Log]	Data Received
+4/5/2015 23:44:07 PM	[Log]	Data Roomed
+4/5/2015 23:44:07 PM	[Log]	Data Received
+4/5/2015 23:44:07 PM	[Log]	Data Roomed
+4/5/2015 23:44:07 PM	[Log]	Data Received
+4/5/2015 23:44:07 PM	[Log]	Data Roomed
+4/5/2015 23:44:07 PM	[Log]	Data Received
+4/5/2015 23:44:07 PM	[Log]	Data Roomed
+4/5/2015 23:44:07 PM	[Log]	Data Received
+4/5/2015 23:44:07 PM	[Log]	Data Roomed
+4/5/2015 23:44:08 PM	[Log]	Data Received
+4/5/2015 23:44:08 PM	[Log]	Data Roomed
+4/5/2015 23:44:08 PM	[Log]	Data Received
+4/5/2015 23:44:08 PM	[Log]	Data Roomed
+4/5/2015 23:44:08 PM	[Log]	Data Received
+4/5/2015 23:44:08 PM	[Log]	Data Roomed
+4/5/2015 23:44:08 PM	[Log]	Data Received
+4/5/2015 23:44:08 PM	[Log]	Data Roomed
+4/5/2015 23:44:08 PM	[Log]	Data Received
+4/5/2015 23:44:08 PM	[Log]	Data Roomed
+4/5/2015 23:44:08 PM	[Log]	Data Received
+4/5/2015 23:44:08 PM	[Log]	Data Roomed
+4/5/2015 23:44:09 PM	[Log]	Data Received
+4/5/2015 23:44:09 PM	[Log]	Data Roomed
+4/5/2015 23:44:09 PM	[Log]	Data Received
+4/5/2015 23:44:09 PM	[Log]	Data Roomed
+4/5/2015 23:44:09 PM	[Log]	Data Received
+4/5/2015 23:44:09 PM	[Log]	Data Roomed
+4/5/2015 23:44:09 PM	[Log]	Data Received
+4/5/2015 23:44:09 PM	[Log]	Data Roomed
+4/5/2015 23:44:11 PM	[Log]	Data Received
+4/5/2015 23:44:11 PM	[Trace]	A connection was forcibly closed, error code: 10054
+4/5/2015 23:44:11 PM	[Log]	Disconnected: 127.0.0.1:55971

@@ -1,0 +1,45 @@
+2/5/2015 18:49:08 PM	[Trace]	#### Server boot ####
+2/5/2015 18:49:08 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 18:49:08 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 18:49:08 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 18:49:08 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 18:49:19 PM	[Log]	Connected: 127.0.0.1:60094
+2/5/2015 18:51:40 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 18:55:16 PM	[Log]	Connected: 127.0.0.1:60112
+2/5/2015 18:57:08 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 18:58:26 PM	[Log]	Connected: 127.0.0.1:60136
+2/5/2015 18:58:35 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 18:58:40 PM	[Log]	Connected: 127.0.0.1:60140
+2/5/2015 18:58:53 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 18:58:56 PM	[Log]	Connected: 127.0.0.1:60142
+2/5/2015 18:59:15 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 18:59:17 PM	[Log]	Connected: 127.0.0.1:60145
+2/5/2015 18:59:58 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:00:01 PM	[Log]	Connected: 127.0.0.1:60148
+2/5/2015 19:00:17 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:00:19 PM	[Log]	Connected: 127.0.0.1:60152
+2/5/2015 19:01:53 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:01:56 PM	[Log]	Connected: 127.0.0.1:60157
+2/5/2015 19:02:35 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:02:37 PM	[Log]	Connected: 127.0.0.1:60163
+2/5/2015 19:04:59 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:05:02 PM	[Log]	Connected: 127.0.0.1:60172
+2/5/2015 19:05:19 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:05:21 PM	[Log]	Connected: 127.0.0.1:60175
+2/5/2015 19:05:36 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:05:39 PM	[Log]	Connected: 127.0.0.1:60178
+2/5/2015 19:06:00 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:06:03 PM	[Log]	Connected: 127.0.0.1:60180
+2/5/2015 19:08:54 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:08:56 PM	[Log]	Connected: 127.0.0.1:60189
+2/5/2015 19:09:21 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:09:23 PM	[Log]	Connected: 127.0.0.1:60192
+2/5/2015 19:09:41 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:09:50 PM	[Log]	Connected: 127.0.0.1:60196
+2/5/2015 19:11:13 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:11:16 PM	[Log]	Connected: 127.0.0.1:60202
+2/5/2015 19:11:28 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:11:30 PM	[Log]	Connected: 127.0.0.1:60204
+2/5/2015 19:11:32 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:11:34 PM	[Error]	Connection refused due to your limit set in settings.cnf!
+2/5/2015 19:11:39 PM	[Error]	Connection refused due to your limit set in settings.cnf!

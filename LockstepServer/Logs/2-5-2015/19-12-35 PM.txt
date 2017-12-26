@@ -1,0 +1,50 @@
+2/5/2015 19:12:35 PM	[Trace]	#### Server boot ####
+2/5/2015 19:12:35 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 19:12:35 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 19:12:35 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 19:12:35 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 19:12:39 PM	[Log]	Connected: 127.0.0.1:60215
+2/5/2015 19:12:46 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:14:19 PM	[Log]	Connected: 127.0.0.1:60222
+2/5/2015 19:14:22 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:14:32 PM	[Log]	Connected: 127.0.0.1:60224
+2/5/2015 19:14:34 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:14:44 PM	[Log]	Connected: 127.0.0.1:60227
+2/5/2015 19:14:48 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:14:51 PM	[Log]	Connected: 127.0.0.1:60229
+2/5/2015 19:15:05 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:16:47 PM	[Log]	Connected: 127.0.0.1:60238
+2/5/2015 19:16:48 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:18:28 PM	[Log]	Connected: 127.0.0.1:60243
+2/5/2015 19:18:30 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:19:23 PM	[Log]	Connected: 127.0.0.1:60248
+2/5/2015 19:19:25 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:19:43 PM	[Log]	Connected: 127.0.0.1:60250
+2/5/2015 19:19:45 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:20:09 PM	[Log]	Connected: 127.0.0.1:60253
+2/5/2015 19:20:54 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+2/5/2015 19:20:54 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+2/5/2015 19:20:54 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:20:57 PM	[Log]	Connected: 127.0.0.1:60257
+2/5/2015 19:20:59 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:21:10 PM	[Log]	Connected: 127.0.0.1:60259
+2/5/2015 19:21:21 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:22:13 PM	[Log]	Connected: 127.0.0.1:60263
+2/5/2015 19:22:22 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:23:04 PM	[Log]	Connected: 127.0.0.1:60267
+2/5/2015 19:23:14 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 19:26:31 PM	[Log]	Connected: 127.0.0.1:60301
+2/5/2015 19:26:55 PM	[Error]	No such command found!
+2/5/2015 19:26:55 PM	[Trace]	Could not execute command quit as was not present in commands dictionary.
+2/5/2015 19:26:57 PM	[Error]	No such command found!
+2/5/2015 19:26:57 PM	[Trace]	Could not execute command close as was not present in commands dictionary.
+2/5/2015 19:26:59 PM	[Error]	No such command found!
+2/5/2015 19:26:59 PM	[Trace]	Could not execute command shut as was not present in commands dictionary.
+2/5/2015 19:27:00 PM	[Error]	No such command found!
+2/5/2015 19:27:00 PM	[Trace]	Could not execute command down as was not present in commands dictionary.
+2/5/2015 19:27:02 PM	[Trace]	Executing command Stop
+2/5/2015 19:27:02 PM	[Log]	Shutting down...

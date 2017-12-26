@@ -1,0 +1,9 @@
+2/5/2015 23:20:16 PM	[Trace]	#### Server boot ####
+2/5/2015 23:20:16 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 23:20:16 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 23:20:16 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 23:20:16 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 23:20:21 PM	[Log]	Connected: 127.0.0.1:61736
+2/5/2015 23:23:11 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 23:23:47 PM	[Log]	Connected: 127.0.0.1:61750
+2/5/2015 23:23:55 PM	[Trace]	A connection was forcibly closed, error code: 10054

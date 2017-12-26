@@ -1,0 +1,29 @@
+2/5/2015 21:25:47 PM	[Trace]	#### Server boot ####
+2/5/2015 21:25:47 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 21:25:47 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 21:25:47 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 21:25:47 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 21:25:51 PM	[Log]	Connected: 127.0.0.1:61075
+2/5/2015 21:39:02 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:40:32 PM	[Log]	Connected: 127.0.0.1:61142
+2/5/2015 21:40:34 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:41:45 PM	[Log]	Connected: 127.0.0.1:61152
+2/5/2015 21:41:47 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:45:35 PM	[Log]	Connected: 127.0.0.1:61168
+2/5/2015 21:45:37 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:45:37 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+2/5/2015 21:45:37 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+2/5/2015 21:52:37 PM	[Log]	Connected: 127.0.0.1:61215
+2/5/2015 21:53:35 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+2/5/2015 21:53:35 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+2/5/2015 21:53:35 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:53:38 PM	[Log]	Connected: 127.0.0.1:61222
+2/5/2015 21:54:48 PM	[Trace]	A connection was forcibly closed, error code: 10054

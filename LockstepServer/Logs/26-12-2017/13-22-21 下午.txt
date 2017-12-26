@@ -1,0 +1,24 @@
+26/12/2017 13:22:21 下午	[Trace]	#### Server boot ####
+26/12/2017 13:22:21 下午	[Log]	Server mounted, listening on port 4296
+26/12/2017 13:22:21 下午	[Trace]	Found plugin: F:\LaiProj\DPhysics\LockstepServer\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+26/12/2017 13:22:21 下午	[Trace]	Found a total of 1 plugins.
+26/12/2017 13:22:21 下午	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+26/12/2017 13:23:05 下午	[Log]	Connected: 127.0.0.1:7604
+26/12/2017 13:23:26 下午	[Trace]	A connection was forcibly closed, error code: 10054
+26/12/2017 13:23:26 下午	[Log]	Disconnected: 127.0.0.1:7604
+26/12/2017 13:23:29 下午	[Log]	Connected: 127.0.0.1:7727
+26/12/2017 13:23:59 下午	[Trace]	A connection was forcibly closed, error code: 10054
+26/12/2017 13:23:59 下午	[Log]	Disconnected: 127.0.0.1:7727
+26/12/2017 13:25:27 下午	[Log]	Connected: 127.0.0.1:8307
+26/12/2017 13:25:28 下午	[Log]	Data Received
+26/12/2017 13:25:28 下午	[Log]	Data Roomed
+26/12/2017 13:25:29 下午	[Log]	Data Received
+26/12/2017 13:25:29 下午	[Log]	Data Roomed
+26/12/2017 13:25:29 下午	[Log]	Data Received
+26/12/2017 13:25:29 下午	[Log]	Data Roomed
+26/12/2017 13:25:30 下午	[Log]	Data Received
+26/12/2017 13:25:30 下午	[Log]	Data Roomed
+26/12/2017 13:25:33 下午	[Log]	Data Received
+26/12/2017 13:25:33 下午	[Log]	Data Roomed
+26/12/2017 13:26:26 下午	[Log]	Data Received
+26/12/2017 13:26:26 下午	[Log]	Data Roomed

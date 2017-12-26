@@ -1,0 +1,51 @@
+2/5/2015 21:02:01 PM	[Trace]	#### Server boot ####
+2/5/2015 21:02:01 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 21:02:01 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 21:02:01 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 21:02:01 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 21:02:05 PM	[Log]	Connected: 127.0.0.1:60858
+2/5/2015 21:02:15 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:03:07 PM	[Log]	Connected: 127.0.0.1:60862
+2/5/2015 21:03:17 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:03:49 PM	[Log]	Connected: 127.0.0.1:60868
+2/5/2015 21:03:56 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:04:45 PM	[Log]	Connected: 127.0.0.1:60872
+2/5/2015 21:04:48 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:05:37 PM	[Log]	Connected: 127.0.0.1:60875
+2/5/2015 21:05:40 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:07:05 PM	[Log]	Connected: 127.0.0.1:60881
+2/5/2015 21:07:07 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:08:09 PM	[Log]	Connected: 127.0.0.1:60889
+2/5/2015 21:08:16 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:11:34 PM	[Log]	Connected: 127.0.0.1:60905
+2/5/2015 21:11:44 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:12:26 PM	[Log]	Connected: 127.0.0.1:60909
+2/5/2015 21:12:28 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:16:15 PM	[Log]	Connected: 127.0.0.1:60964
+2/5/2015 21:16:18 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:16:20 PM	[Log]	Connected: 127.0.0.1:60966
+2/5/2015 21:16:24 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:17:02 PM	[Log]	Connected: 127.0.0.1:60970
+2/5/2015 21:17:10 PM	[Trace]	Exception trace ConnectionService.ProcessDataItem (somewhere in here)
+2/5/2015 21:17:10 PM	[Error]	System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at DPhysics.Lockstep.Core.ConnectionService_onPlayerDisconnect(ConnectionService con)
+   at DarkRift.ConnectionService.Close()
+   at DarkRift.ConnectionService.ProcessDataItem(Object context)
+2/5/2015 21:17:10 PM	[Trace]	A connection was forcibly closed, error code: 10053
+2/5/2015 21:17:13 PM	[Log]	Connected: 127.0.0.1:60973
+2/5/2015 21:17:19 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:23:06 PM	[Log]	Connected: 127.0.0.1:61051
+2/5/2015 21:23:16 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:23:19 PM	[Log]	Connected: 127.0.0.1:61054
+2/5/2015 21:23:30 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:24:22 PM	[Log]	Connected: 127.0.0.1:61058
+2/5/2015 21:24:29 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:24:32 PM	[Log]	Connected: 127.0.0.1:61061
+2/5/2015 21:24:36 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:24:41 PM	[Log]	Connected: 127.0.0.1:61063
+2/5/2015 21:24:46 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:24:59 PM	[Log]	Connected: 127.0.0.1:61066
+2/5/2015 21:25:12 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 21:25:29 PM	[Error]	Connection refused due to your limit set in settings.cnf!
+2/5/2015 21:25:38 PM	[Error]	Connection refused due to your limit set in settings.cnf!

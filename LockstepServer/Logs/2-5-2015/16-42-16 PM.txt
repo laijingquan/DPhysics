@@ -1,0 +1,9 @@
+2/5/2015 16:42:16 PM	[Trace]	#### Server boot ####
+2/5/2015 16:42:16 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 16:42:16 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\Assets\DPhysics\Multiplayer DarkRift Demo\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 16:42:16 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 16:42:16 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 16:42:16 PM	[Error]	Plugin DPhysics.Lockstep.Core failed to instantiate: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DarkRift.Interface.RegisterCommands(Command[] commandsToAdd)
+   at DarkRift.PluginManager.LoadPlugins()

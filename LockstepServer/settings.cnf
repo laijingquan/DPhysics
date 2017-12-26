@@ -1,0 +1,3 @@
+Port:				4296
+MaxConnections:			20
+LogData:			False

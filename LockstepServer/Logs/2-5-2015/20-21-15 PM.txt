@@ -1,0 +1,29 @@
+2/5/2015 20:21:15 PM	[Trace]	#### Server boot ####
+2/5/2015 20:21:15 PM	[Log]	Server mounted, listening on port 4296
+2/5/2015 20:21:15 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\.Lockstep Server\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+2/5/2015 20:21:15 PM	[Trace]	Found a total of 1 plugins.
+2/5/2015 20:21:15 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+2/5/2015 20:21:19 PM	[Log]	Connected: 127.0.0.1:60599
+2/5/2015 20:21:20 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:21:39 PM	[Log]	Connected: 127.0.0.1:60604
+2/5/2015 20:22:57 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:23:00 PM	[Log]	Connected: 127.0.0.1:60609
+2/5/2015 20:23:01 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:23:27 PM	[Log]	Connected: 127.0.0.1:60612
+2/5/2015 20:23:32 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:25:34 PM	[Log]	Connected: 127.0.0.1:60619
+2/5/2015 20:25:54 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:26:12 PM	[Log]	Connected: 127.0.0.1:60623
+2/5/2015 20:33:23 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:33:31 PM	[Log]	Connected: 127.0.0.1:60672
+2/5/2015 20:33:45 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:35:37 PM	[Log]	Connected: 127.0.0.1:60680
+2/5/2015 20:35:43 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:37:18 PM	[Log]	Connected: 127.0.0.1:60685
+2/5/2015 20:37:25 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:38:10 PM	[Log]	Connected: 127.0.0.1:60700
+2/5/2015 20:38:14 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:38:46 PM	[Log]	Connected: 127.0.0.1:60705
+2/5/2015 20:38:49 PM	[Trace]	A connection was forcibly closed, error code: 10054
+2/5/2015 20:38:59 PM	[Log]	Connected: 127.0.0.1:60709
+2/5/2015 20:39:01 PM	[Trace]	A connection was forcibly closed, error code: 10054

@@ -1,0 +1,20 @@
+4/5/2015 23:53:14 PM	[Trace]	#### Server boot ####
+4/5/2015 23:53:14 PM	[Log]	Server mounted, listening on port 4296
+4/5/2015 23:53:14 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\LockstepServer\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+4/5/2015 23:53:14 PM	[Trace]	Found a total of 1 plugins.
+4/5/2015 23:53:14 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+4/5/2015 23:53:28 PM	[Log]	Connected: 127.0.0.1:56010
+4/5/2015 23:53:31 PM	[Log]	Data Received
+4/5/2015 23:53:31 PM	[Log]	Disconnected: 127.0.0.1:56010
+4/5/2015 23:53:49 PM	[Log]	Connected: 127.0.0.1:56013
+4/5/2015 23:53:51 PM	[Log]	Data Received
+4/5/2015 23:53:51 PM	[Log]	Disconnected: 127.0.0.1:56013
+4/5/2015 23:55:48 PM	[Log]	Connected: 127.0.0.1:56026
+4/5/2015 23:55:51 PM	[Log]	Data Received
+4/5/2015 23:55:51 PM	[Log]	Disconnected: 127.0.0.1:56026
+4/5/2015 23:56:10 PM	[Log]	Connected: 127.0.0.1:56028
+4/5/2015 23:56:14 PM	[Log]	Connected: 127.0.0.1:56030
+4/5/2015 23:56:20 PM	[Log]	Data Received
+4/5/2015 23:56:20 PM	[Log]	Disconnected: 127.0.0.1:56028
+4/5/2015 23:56:22 PM	[Log]	Data Received
+4/5/2015 23:56:22 PM	[Log]	Disconnected: 127.0.0.1:56030

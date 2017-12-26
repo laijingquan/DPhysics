@@ -1,0 +1,85 @@
+5/5/2015 23:30:08 PM	[Trace]	#### Server boot ####
+5/5/2015 23:30:08 PM	[Log]	Server mounted, listening on port 4296
+5/5/2015 23:30:08 PM	[Trace]	Found plugin: C:\Users\John\Documents\DPhysics\LockstepServer\Plugins\DPhysics.Lockstep.dll, type of DPhysics.Lockstep.Core
+5/5/2015 23:30:08 PM	[Trace]	Found a total of 1 plugins.
+5/5/2015 23:30:08 PM	[Log]	Loaded plugin: DPhysics Lockstep Server Version: 1.0
+5/5/2015 23:30:12 PM	[Log]	Connected: 127.0.0.1:53725
+5/5/2015 23:30:18 PM	[Log]	Data Received
+5/5/2015 23:30:18 PM	[Log]	Data Roomed
+5/5/2015 23:30:22 PM	[Log]	Data Received
+5/5/2015 23:30:22 PM	[Log]	Data Roomed
+5/5/2015 23:30:22 PM	[Log]	Data Received
+5/5/2015 23:30:22 PM	[Log]	Data Roomed
+5/5/2015 23:30:23 PM	[Log]	Data Received
+5/5/2015 23:30:23 PM	[Log]	Data Roomed
+5/5/2015 23:30:29 PM	[Log]	Data Received
+5/5/2015 23:30:29 PM	[Log]	Data Roomed
+5/5/2015 23:30:30 PM	[Log]	Data Received
+5/5/2015 23:30:30 PM	[Log]	Data Roomed
+5/5/2015 23:30:36 PM	[Log]	Data Received
+5/5/2015 23:30:36 PM	[Log]	Data Roomed
+5/5/2015 23:30:38 PM	[Log]	Data Received
+5/5/2015 23:30:38 PM	[Log]	Data Roomed
+5/5/2015 23:30:47 PM	[Log]	Data Received
+5/5/2015 23:30:47 PM	[Log]	Data Roomed
+5/5/2015 23:31:13 PM	[Log]	Data Received
+5/5/2015 23:31:13 PM	[Trace]	A connection was forcibly closed, error code: 10053
+5/5/2015 23:31:13 PM	[Log]	Disconnected: 127.0.0.1:53725
+5/5/2015 23:31:20 PM	[Log]	Connected: 127.0.0.1:53730
+5/5/2015 23:31:34 PM	[Log]	Data Received
+5/5/2015 23:31:34 PM	[Log]	Data Roomed
+5/5/2015 23:31:35 PM	[Log]	Data Received
+5/5/2015 23:31:35 PM	[Log]	Data Roomed
+5/5/2015 23:31:35 PM	[Log]	Data Received
+5/5/2015 23:31:35 PM	[Log]	Data Roomed
+5/5/2015 23:31:36 PM	[Log]	Data Received
+5/5/2015 23:31:36 PM	[Log]	Data Roomed
+5/5/2015 23:31:36 PM	[Log]	Data Received
+5/5/2015 23:31:36 PM	[Log]	Data Roomed
+5/5/2015 23:31:37 PM	[Log]	Data Received
+5/5/2015 23:31:37 PM	[Log]	Data Roomed
+5/5/2015 23:31:38 PM	[Log]	Data Received
+5/5/2015 23:31:38 PM	[Log]	Data Roomed
+5/5/2015 23:31:38 PM	[Log]	Data Received
+5/5/2015 23:31:38 PM	[Log]	Data Roomed
+5/5/2015 23:31:39 PM	[Log]	Data Received
+5/5/2015 23:31:39 PM	[Log]	Data Roomed
+5/5/2015 23:31:39 PM	[Log]	Data Received
+5/5/2015 23:31:39 PM	[Log]	Data Roomed
+5/5/2015 23:31:43 PM	[Log]	Data Received
+5/5/2015 23:31:43 PM	[Log]	Data Roomed
+5/5/2015 23:31:44 PM	[Log]	Data Received
+5/5/2015 23:31:44 PM	[Log]	Data Roomed
+5/5/2015 23:31:45 PM	[Log]	Data Received
+5/5/2015 23:31:45 PM	[Log]	Data Roomed
+5/5/2015 23:31:45 PM	[Log]	Data Received
+5/5/2015 23:31:45 PM	[Log]	Data Roomed
+5/5/2015 23:31:45 PM	[Log]	Data Received
+5/5/2015 23:31:45 PM	[Log]	Data Roomed
+5/5/2015 23:31:46 PM	[Log]	Data Received
+5/5/2015 23:31:46 PM	[Log]	Data Roomed
+5/5/2015 23:31:47 PM	[Log]	Data Received
+5/5/2015 23:31:47 PM	[Log]	Data Roomed
+5/5/2015 23:31:49 PM	[Log]	Data Received
+5/5/2015 23:31:49 PM	[Log]	Data Roomed
+5/5/2015 23:31:49 PM	[Log]	Data Received
+5/5/2015 23:31:49 PM	[Log]	Data Roomed
+5/5/2015 23:32:37 PM	[Log]	Data Received
+5/5/2015 23:32:37 PM	[Trace]	A connection was forcibly closed, error code: 10053
+5/5/2015 23:32:37 PM	[Log]	Disconnected: 127.0.0.1:53730
+5/5/2015 23:33:38 PM	[Log]	Connected: 127.0.0.1:53748
+5/5/2015 23:33:50 PM	[Trace]	A connection was forcibly closed, error code: 10054
+5/5/2015 23:33:50 PM	[Log]	Disconnected: 127.0.0.1:53748
+5/5/2015 23:34:14 PM	[Log]	Connected: 127.0.0.1:53751
+5/5/2015 23:34:27 PM	[Log]	Data Received
+5/5/2015 23:34:27 PM	[Log]	Data Roomed
+5/5/2015 23:34:30 PM	[Log]	Data Received
+5/5/2015 23:34:30 PM	[Log]	Data Roomed
+5/5/2015 23:34:31 PM	[Log]	Data Received
+5/5/2015 23:34:31 PM	[Log]	Data Roomed
+5/5/2015 23:34:52 PM	[Log]	Data Received
+5/5/2015 23:34:52 PM	[Trace]	A connection was forcibly closed, error code: 10054
+5/5/2015 23:34:52 PM	[Log]	Disconnected: 127.0.0.1:53751
+6/5/2015 01:03:04 AM	[Log]	Connected: 127.0.0.1:54909
+6/5/2015 01:03:07 AM	[Trace]	A connection was forcibly closed, error code: 10054
+6/5/2015 01:03:07 AM	[Log]	Disconnected: 127.0.0.1:54909
